@@ -6,6 +6,7 @@
 - Henry Griffin
 - Ender Hale
 - Kellen Brim
+- Forrest Jefferson
 ### Mockups:
 ![Mockup](https://github.com/Henrygrif1/Space-Pirates-3D/blob/main/images/Mockup.png)
 ***Made in Unity***
