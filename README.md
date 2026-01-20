@@ -14,4 +14,6 @@ You fly through space in a pirate ship stealing loot and shooting down other shi
 ### Mockups:
 ![Mockup](https://github.com/Henrygrif1/Space-Pirates-3D/blob/main/images/Mockup.png)
 
+![Pirate Death](https://github.com/Henrygrif1/Space-Pirates-3D/blob/main/images/Pirate%20Death.gif?raw=true)
+
 ***Made in Unity***
