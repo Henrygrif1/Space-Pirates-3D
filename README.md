@@ -14,7 +14,7 @@ You fly through space in a pirate ship stealing loot and shooting down other shi
 ### Mockups:
 ![Mockup](https://github.com/Henrygrif1/Space-Pirates-3D/blob/main/images/Mockup.png)
 
-### This is what will be shown when a player dies and is reapawning
+### This is what will be shown when a player dies and is reapawning:
 ![Pirate Death](https://github.com/Henrygrif1/Space-Pirates-3D/blob/main/images/Pirate_Death_Big.gif?raw=true)
 
 ***Made in Unity***
