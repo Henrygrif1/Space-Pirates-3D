@@ -20,4 +20,4 @@ Only currency used to purchase skins and upgrades will be solely made in-game in
 ### This is what will be shown when a player dies and is respawning:
 ![Pirate Death](https://github.com/Henrygrif1/Space-Pirates-3D/blob/main/images/Pirate_Death_Big.gif?raw=true)
 
-***Made in Unity***
+***Game Made in Unity***
