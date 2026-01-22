@@ -9,7 +9,7 @@
 - Forrest Jefferson
 
 ### About the game:
-You fly through space in a pirate ship stealing loot and shooting down other ships with friends. You then can use the loot to buy new skins and better upgrades.
+You fly through space in a pirate ship stealing loot and shooting down other ships with friends. You can traverse floating space islands/planets to steal and get more plunder. Go back to the harbor and use the loot to buy new skins and better upgrades. Escape the 
 
 (No Microtransactions.
 Only currency used to purchase skins and upgrades will be solely made in-game in the form of Doubloons)
